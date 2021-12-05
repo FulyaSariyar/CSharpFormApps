@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeOlustur.", "QRCodeOlu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBox", "GroupBox\GroupBox.csproj", "{4C9934CE-16C9-409D-9F59-F6E5B06F4580}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxlarArasiVeriTasima", "ListBoxlarArasiVeriTasima\ListBoxlarArasiVeriTasima.csproj", "{A1944807-5F12-4B79-8B21-8E2963464F32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4C9934CE-16C9-409D-9F59-F6E5B06F4580}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C9934CE-16C9-409D-9F59-F6E5B06F4580}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C9934CE-16C9-409D-9F59-F6E5B06F4580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1944807-5F12-4B79-8B21-8E2963464F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1944807-5F12-4B79-8B21-8E2963464F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1944807-5F12-4B79-8B21-8E2963464F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1944807-5F12-4B79-8B21-8E2963464F32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
