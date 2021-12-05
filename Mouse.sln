@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxlarArasiVeriTasima",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KücükBüyükHarfCeviri", "KücükBüyükHarfCeviri\KücükBüyükHarfCeviri.csproj", "{BD709D2D-5789-48E0-9FD6-8225D69231A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDosyasiOkuma_DataGridView", "CSVDosyasiOkuma_DataGridView\CSVDosyasiOkuma_DataGridView.csproj", "{68507551-F78E-4447-9838-CE6F463820C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68507551-F78E-4447-9838-CE6F463820C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68507551-F78E-4447-9838-CE6F463820C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68507551-F78E-4447-9838-CE6F463820C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68507551-F78E-4447-9838-CE6F463820C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
