@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboBoxResimSec", "ComboBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioButton", "RadioButton\RadioButton.csproj", "{15412325-07AE-4548-8509-CF392809D439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeOlustur.", "QRCodeOlustur\QRCodeOlustur..csproj", "{46246FDD-A3B9-433B-8D6C-D7910351C15F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{15412325-07AE-4548-8509-CF392809D439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15412325-07AE-4548-8509-CF392809D439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15412325-07AE-4548-8509-CF392809D439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46246FDD-A3B9-433B-8D6C-D7910351C15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46246FDD-A3B9-433B-8D6C-D7910351C15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46246FDD-A3B9-433B-8D6C-D7910351C15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46246FDD-A3B9-433B-8D6C-D7910351C15F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
