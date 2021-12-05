@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBox", "GroupBox\GroupB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBoxlarArasiVeriTasima", "ListBoxlarArasiVeriTasima\ListBoxlarArasiVeriTasima.csproj", "{A1944807-5F12-4B79-8B21-8E2963464F32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KücükBüyükHarfCeviri", "KücükBüyükHarfCeviri\KücükBüyükHarfCeviri.csproj", "{BD709D2D-5789-48E0-9FD6-8225D69231A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{A1944807-5F12-4B79-8B21-8E2963464F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1944807-5F12-4B79-8B21-8E2963464F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1944807-5F12-4B79-8B21-8E2963464F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD709D2D-5789-48E0-9FD6-8225D69231A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
